@@ -1,0 +1,35 @@
+CV
+
+Mateusz Daniluk
+Programista, Trener
+Telefon: 500-000-000
+E-mail: danilukmateusz92@gmail.com
+Linkedin: https://www.linkedin.com/in/mateusz-daniluk-7056b2180/
+
+Jestem doświadczonym frontend developerem specjalizującym się w tworzeniu zaawansowanych aplikacji w Angularze.
+W mojej pracy stawiam na innowacyjne rozwiązania oraz ciągły rozwój.
+
+Umiejętności
+HTML
+Najpopularniejszy język znaczników.
+CSS
+Kaskadowe arkusze stylów
+JavaScript
+Skryptowy język programowania
+
+Historia Zatrudnienia
+Programista Front-end
+XTB
+2 miesiące
+
+Programista Front-end
+Comarch
+4 lata
+
+Opinie
+Super bootcamp!
+Ten kurs pomógł zdobyć mi pracę.
+
+Adres korespondencji
+ul. Zmyślona
+30-300 Kraków
