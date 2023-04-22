@@ -7,7 +7,7 @@ E-mail: danilukmateusz92@gmail.com
 Linkedin: https://www.linkedin.com/in/mateusz-daniluk-7056b2180/
 
 Jestem doświadczonym frontend developerem specjalizującym się w tworzeniu zaawansowanych aplikacji w Angularze.
-W mojej pracy stawiam na innowacyjne rozwiązania oraz ciągły rozwój.
+Lubię sport i filmy si-fi. Welcome to the real world.
 
 Umiejętności
 HTML
@@ -16,6 +16,10 @@ CSS
 Kaskadowe arkusze stylów
 JavaScript
 Skryptowy język programowania
+
+Usługi
+Web development
+Prowadzenie szkoleń
 
 Historia Zatrudnienia
 Programista Front-end
